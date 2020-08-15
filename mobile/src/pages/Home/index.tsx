@@ -35,7 +35,7 @@ return (
       <View>
         <Image source={require('../../assets/logo.png')} />
         <Text style={styles.title}>Seu Marketplace de coleta de resíduos</Text>
-        <Text style={styles.description}>Ajudamos pessoas a encotrar pontos de coleta de forma eficiete</Text>
+        <Text style={styles.description}>Ajudamos pessoas a encotrar pontos de coleta de forma eficiente</Text>
       </View>
     </View>    
 
