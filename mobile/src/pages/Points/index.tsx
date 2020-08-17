@@ -87,6 +87,7 @@ const Points = () => {
   }, [selectedItems]);
   
   function handleNavigateToDetail(id: number){
+    console.log({point_id: id})
     navigation.navigate('Detail', { point_id: id })
   }
 
