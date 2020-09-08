@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: :computer: Resultado Web
 
-- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
+- O layout está disponível no **[Figma](https://www.figma.com/file/QKyOVDw7PoEwhFlCaJ77II/Ecoleta?node-id=0%3A1)**;
 
 
 
